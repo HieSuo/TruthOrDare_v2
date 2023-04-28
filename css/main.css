@@ -119,6 +119,10 @@ button{
     text-align: center;
     justify-content: space-betweens;
 }
+.time_played{
+    margin-top: 20px;
+    font-size: 14px;
+}
 .nav button{
     cursor: pointer;
     margin: 20px 60px;
@@ -130,7 +134,6 @@ button{
 }
 .nav button:hover{
     background-color: rgb(201, 182, 18);
-
 }
 
 
